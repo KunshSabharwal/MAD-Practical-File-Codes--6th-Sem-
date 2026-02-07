@@ -27,46 +27,38 @@ class HomeScreen extends StatelessWidget {
         child: Column(
           mainAxisAlignment: MainAxisAlignment.center,
           children: [
-            // Elevated Button
-            ElevatedButton(
+            // Icon 1
+            IconButton(
+              icon: const Icon(Icons.thumb_up),
+              iconSize: 40,
+              color: const Color.fromARGB(255, 0, 71, 2),
               onPressed: () {
-                debugPrint('Elevated Button Pressed');
+                debugPrint('Thumb up icon pressed');
               },
-              style: const ButtonStyle(
-                backgroundColor: WidgetStatePropertyAll(
-                  Color.fromARGB(255, 63, 170, 6),
-                ),
-              ),
-              child: const Text('Elevated Button'),
             ),
 
-            const SizedBox(height: 15),
+            const SizedBox(height: 20),
 
-            // Text Button
-            TextButton(
+            // Icon 2
+            IconButton(
+              icon: const Icon(Icons.info),
+              iconSize: 40,
+              color: const Color.fromARGB(255, 0, 71, 2),
               onPressed: () {
-                debugPrint('Text Button Pressed');
+                debugPrint('Info icon pressed');
               },
-              child: const Text(
-                'Text Button',
-                style: TextStyle(color: Color.fromARGB(255, 0, 71, 2)),
-              ),
             ),
 
-            const SizedBox(height: 15),
+            const SizedBox(height: 20),
 
-            // Outlined Button
-            OutlinedButton(
+            // Icon 3
+            IconButton(
+              icon: const Icon(Icons.send),
+              iconSize: 40,
+              color: const Color.fromARGB(255, 0, 71, 2),
               onPressed: () {
-                debugPrint('Outlined Button Pressed');
+                debugPrint('Send icon pressed');
               },
-              style: OutlinedButton.styleFrom(
-                side: const BorderSide(color: Color.fromARGB(255, 0, 71, 2)),
-              ),
-              child: const Text(
-                'Outlined Button',
-                style: TextStyle(color: Color.fromARGB(255, 0, 71, 2)),
-              ),
             ),
           ],
         ),
