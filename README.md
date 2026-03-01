@@ -11,3 +11,7 @@
 ## Practical 1.1, 1.2, 1.3 - 7/2/26
 
 - Inserting images, buttons (text, elevated and outlined) and icons in Flutter
+
+## Practical 2, 3 - 28/2/26
+
+- Portfolio app and Tap the Ball Game
