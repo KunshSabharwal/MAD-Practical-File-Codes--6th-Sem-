@@ -15,3 +15,7 @@
 ## Practical 2, 3 - 28/2/26
 
 - Portfolio app and Tap the Ball Game
+
+## Practical 4, 5 - 28/3/26
+
+- Shared Preferences App and User Authentication App
