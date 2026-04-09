@@ -19,3 +19,7 @@
 ## Practical 4, 5 - 28/3/26
 
 - Shared Preferences App and User Authentication App
+
+## Practical 6, 7 - 4/4/26
+
+-Integrate sensors such as accelerometer, gyroscope, or GPS and Add multimedia functionality such as capturing photos/videos, playing audio files, or integrating with social media sharing.
