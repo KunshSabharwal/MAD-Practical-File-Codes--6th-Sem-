@@ -22,4 +22,8 @@
 
 ## Practical 6, 7 - 4/4/26
 
--Integrate sensors such as accelerometer, gyroscope, or GPS and Add multimedia functionality such as capturing photos/videos, playing audio files, or integrating with social media sharing.
+- Integrate sensors such as accelerometer, gyroscope, or GPS and Add multimedia functionality such as capturing photos/videos, playing audio files, or integrating with social media sharing.
+
+## Practical 8, 9 - 11/4/26
+
+- Incorporate push notifications enabling the delivery of real-time alerts or messages to users and Develop a mobile application that interacts with a RESTful API to fetch and display data from a remote server.
