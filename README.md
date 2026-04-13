@@ -27,3 +27,7 @@
 ## Practical 8, 9 - 11/4/26
 
 - Incorporate push notifications enabling the delivery of real-time alerts or messages to users and Develop a mobile application that interacts with a RESTful API to fetch and display data from a remote server.
+
+## Practical 10, 11 - 18/4/26
+
+- Mobile application that utilizes location services to provide location - based information, such as finding nearby places or tracking user movements and Mobile App Testing and Debugging
